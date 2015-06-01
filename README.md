@@ -1,6 +1,6 @@
 Takeaway Challenge
 ==================
-[![Build Status](https://travis-ci.org/armi1189/takeaway-challenge.svg)](https://travis-ci.org/armi1189/takeaway-challenge) [![Code Climate](https://codeclimate.com/github/armi1189/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/takeaway-challenge)
+[![Build Status](https://travis-ci.org/armi1189/takeaway-challenge.svg)](https://travis-ci.org/armi1189/takeaway-challenge) [![Coverage Status](https://coveralls.io/repos/armi1189/takeaway-challenge/badge.svg?branch=master)](https://coveralls.io/r/armi1189/takeaway-challenge?branch=master) [![Code Climate](https://codeclimate.com/github/armi1189/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/takeaway-challenge)
 ------
 Instructions
 -------
