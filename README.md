@@ -1,6 +1,7 @@
 Takeaway Challenge
 ==================
-
+[![Code Climate](https://codeclimate.com/github/armi1189/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/armi1189/takeaway-challenge)
+------
 Instructions
 -------
 * Challenge time: Friday, the entire day + the weekend if you need it
